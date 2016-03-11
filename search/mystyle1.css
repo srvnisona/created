@@ -1,0 +1,25 @@
+input::-webkit-calendar-picker-indicator {
+  display: none;
+}
+	#tfnewsearch{
+		float:left;
+		padding:20px;
+	}
+	.tftextinput{
+		margin: 0;
+	font-size:16px;
+		height:30px;
+		width:400px;
+		border:1px solid #0076a3; border-right:0px;
+		
+	}
+	.tfbutton {
+		padding: 0px 15px;
+	height:34px;
+		
+		color: #ffffff;
+		border:1px solid #0076a3; 
+		background: #0095cd;
+		
+	}
+	
